@@ -1,11 +1,9 @@
 * {
     color: black;
+    font-family: 'Merriweather', serif;
 }
 
 .section__title {
     font-family: 'Lato', sans-serif;
 }
 
-.section__description {
-    font-family: 'Merriweather', serif;
-}
